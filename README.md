@@ -1,6 +1,5 @@
-README
-ecommerce
 Ecommerce REST API
+
 Overview
 This project aims to develop a robust and scalable REST API for an eCommerce platform. The API will facilitate essential functionalities such as managing items, processing orders, handling carts, and managing user authentication through sign-in and sign-up mechanisms.
 
