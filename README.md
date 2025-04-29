@@ -30,6 +30,7 @@ Documentation:
 Comprehensive documentation using tools like Swagger/OpenAPI.
 Testing:
 Unit tests, integration tests, and end-to-end tests to ensure the reliability of the API.
+
 API Endpoints
 1. Items
 GET /api/items: Retrieve all items.
@@ -43,6 +44,7 @@ GET /api/orders: Retrieve all orders.
 GET /api/orders/{orderId}: Retrieve a specific order by ID.
 PUT /api/orders/{orderId}: Update an existing order.
 DELETE /api/orders/{orderId}: Cancel an order.
+
 Getting Started
 Installation: Clone the repository and install dependencies.
 Configuration: Set up environment variables, database connection, etc.
